@@ -10,7 +10,7 @@ export default function PageInner() {
         {
             key: 'created',
             title: 'Created',
-            dataType: 'string',
+            dataType: 'element',
         },
         {
             key: 'first',
@@ -30,7 +30,7 @@ export default function PageInner() {
         {
             key: 'status',
             title: 'Status',
-            dataType: 'string',
+            dataType: 'element',
         },
     ]
 
